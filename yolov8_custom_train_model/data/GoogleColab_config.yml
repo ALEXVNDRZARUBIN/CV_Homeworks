@@ -1,0 +1,9 @@
+path: '/content/gdrive/MyDrive/YOLOv8CustomDatasetTrain/data' # Dataset root dir
+
+train: images/train # Train images (relative to 'path')
+
+val: images/train # Val images (relative to 'path')
+
+# Classes
+names: 
+    0: axe

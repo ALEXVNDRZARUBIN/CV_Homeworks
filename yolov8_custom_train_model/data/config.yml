@@ -1,0 +1,9 @@
+path: D:/yolov8_custom_train_model/data # Dataset root dir
+
+train: images/train # Train images (relative to 'path')
+
+val: images/train # Val images (relative to 'path')
+
+# Classes
+names: 
+    0: axe
